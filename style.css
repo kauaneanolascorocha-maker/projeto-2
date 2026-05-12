@@ -28,3 +28,11 @@ padding:16px;
 width:593px;
 height:352;
 }
+
+
+
+-principal{
+display: flex;
+flex-direction:column;
+align-items:center;
+}
